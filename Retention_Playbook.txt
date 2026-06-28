@@ -1,0 +1,560 @@
+
+RETENTION PLAYBOOK
+SQL Customer Retention Strategy
+D2C Fashion Brand — United States
+════════════════════════════════════════════════════════
+
+PREPARED BY : \ADARSH KUMAR
+DATE        : June 2026
+DATASET     : 3,900 customers | $233,081 total revenue
+PURPOSE     : Reduce discount dependency without
+              hurting sales volume
+
+════════════════════════════════════════════════════════
+SECTION 1 — EXECUTIVE SUMMARY
+════════════════════════════════════════════════════════
+
+The brand currently serves 3,900 customers across the
+United States with total revenue of $233,081 and an
+average purchase value of $59.76.
+
+Analysis of customer behavioral data reveals:
+
+KEY FINDING 1:
+57% of customers (2,223) are Genuinely Loyal —
+they purchase WITHOUT needing discounts.
+This is a strong foundation that must be protected
+and rewarded.
+
+KEY FINDING 2:
+43% of customers (1,677) are Discount Dependent —
+they ONLY buy when a discount or promo code is applied.
+This group costs the brand margin without building
+long-term loyalty.
+
+KEY FINDING 3:
+43% of ALL purchases use discounts AND 43% use promo
+codes — suggesting the same group uses both together.
+The brand is training customers to wait for discounts
+before purchasing.
+
+KEY FINDING 4:
+Accessories is the ONLY retention category — customers
+who buy Accessories tend to be repeat purchasers.
+All other categories (Clothing, Footwear, Outerwear)
+are entry-point categories.
+
+KEY FINDING 5:
+1,013 customers live in Golden Market cities —
+high spend + low promo dependency.
+These are genuine brand advocates not yet targeted
+by marketing.
+
+THE CENTRAL QUESTION:
+Is the brand building a loyal customer base or
+relying on continuous promotional activity?
+
+ANSWER:
+The brand has a SPLIT reality:
+57% genuine loyalty (healthy) vs
+43% discount dependency (risky and growing).
+
+Without intervention, the discount-dependent segment
+will grow as more customers learn they can wait for
+promotions — permanently reducing brand margins.
+
+════════════════════════════════════════════════════════
+SECTION 2 — CUSTOMER SEGMENTATION FINDINGS
+════════════════════════════════════════════════════════
+
+SEGMENT 1 — GENUINELY LOYAL (57% | 2,223 customers)
+─────────────────────────────────────────────────────
+Definition  : Promo dependency score = 0.0
+              Used NO discount AND NO promo code
+Behavior    : Buy at full price consistently
+Avg spend   : Higher than discount dependent segment
+Risk level  : LOW — will continue buying without promos
+Action      : REWARD and PROTECT this segment
+
+Sub-segments:
+→ Platinum Loyal (545 customers)
+   Highest spenders who never use discounts
+   → STOP all discounts immediately
+   → Enroll in exclusive loyalty program
+
+→ Gold Loyal (550 customers)
+   High spenders who never use discounts
+   → STOP all discounts immediately
+   → Offer loyalty points instead of discounts
+
+→ Silver Loyal (560 customers)
+   Mid spenders who never use discounts
+   → REDUCE discounts by 50% over 3 months
+   → Monitor purchase frequency carefully
+
+→ Bronze Loyal (568 customers)
+   Lower spenders who never use discounts
+   → REDUCE discounts gradually
+   → Focus on increasing basket size
+
+────────────────────────────────────────────────────
+SEGMENT 2 — MODERATE (uses ONE promo type)
+─────────────────────────────────────────────────────
+Definition  : Promo dependency score = 0.5
+              Used EITHER discount OR promo code
+              (not both)
+Behavior    : Buy with some promotional support
+Risk level  : MEDIUM — could go either way
+Action      : CONVERT to genuine loyalty
+
+Strategy:
+→ Reward non-promo purchases with loyalty points
+→ Send personalized recommendations (no discounts)
+→ Create urgency through limited stock alerts
+   rather than price discounts
+→ Target with new Accessories products
+   (retention category)
+
+────────────────────────────────────────────────────
+SEGMENT 3 — DISCOUNT DEPENDENT (43% | 1,677 customers)
+─────────────────────────────────────────────────────
+Definition  : Promo dependency score = 1.0
+              Used BOTH discount AND promo code
+Behavior    : Only purchases when promotions active
+Risk level  : HIGH — currently hurting margins
+Action      : GRADUAL reduction strategy
+
+Sub-segments:
+→ Platinum Discount Dependent (381 customers)
+   High spenders BUT only with both promos
+   → KEEP discounts for now (too risky to remove)
+   → These are high value — cannot afford to lose
+   → Slowly introduce loyalty program as alternative
+   → Timeline: 6 months before any discount reduction
+
+→ Gold Discount Dependent (438 customers)
+   Good spenders but fully promo driven
+   → KEEP discounts but cap at one type only
+   → Remove either discount OR promo code (not both)
+   → Timeline: 3 months
+
+→ Silver Discount Dependent (412 customers)
+   Mid spenders — promo driven
+   → MONITOR only for 90 days
+   → If they stop buying without promos → accept loss
+   → Not worth high investment to convert
+
+→ Bronze Discount Dependent (446 customers)
+   Lowest spenders — bargain hunters
+   → LOW PRIORITY
+   → These are one-time bargain buyers
+   → Do not invest in retaining this sub-segment
+
+════════════════════════════════════════════════════════
+SECTION 3 — PROMOTIONAL SUNSET PLAN
+════════════════════════════════════════════════════════
+
+WHAT IS A PROMO SUNSET PLAN?
+Gradually reducing discounts for segments that do not
+need them — protecting margin without losing volume.
+
+PROMO SUNSET PLAN — 4 ACTIONS:
+────────────────────────────────────────────────────
+
+ACTION 1 — STOP DISCOUNTS (Immediate)
+Target    : Genuinely Loyal + Gold + Platinum
+Customers : 1,095 customers
+Why       : These customers buy at full price already
+            Discounts are unnecessary margin loss
+When      : Start immediately — Month 1
+How       : Remove from all discount email lists
+            Remove promo code access
+            Replace with loyalty points offer
+Risk      : Very LOW — they already buy without promos
+Metric    : Track purchase frequency monthly
+            Success = no drop in purchase frequency
+Expected  : Save 15% margin on $97,925 revenue
+            = $14,689 margin recovery
+
+ACTION 2 — REDUCE DISCOUNTS (3 months)
+Target    : Genuinely Loyal + Silver + Bronze
+Customers : 1,128 customers
+Why       : These customers rarely use promos anyway
+            Small reduction has minimal risk
+When      : Month 2-3
+How       : Reduce discount from 20% to 10%
+            Then from 10% to 5%
+            Then remove completely by Month 4
+Risk      : LOW-MEDIUM
+Metric    : Monitor conversion rate weekly
+Success   : Conversion rate stays above 80% of baseline
+Expected  : Partial margin recovery
+
+ACTION 3 — KEEP DISCOUNTS (6 months)
+Target    : Discount Dependent + Gold + Platinum
+Customers : 819 customers
+Why       : These are high value customers
+            Removing discounts risks losing them
+When      : Keep for 6 months then reassess
+How       : Offer ONE type of discount (not both)
+            Introduce loyalty program alongside
+Risk      : HIGH if removed too soon
+Metric    : Track if loyalty program enrollment grows
+Success   : 30% enroll in loyalty program within 6 months
+
+ACTION 4 — MONITOR ONLY
+Target    : Discount Dependent + Silver + Bronze
+Customers : 858 customers
+Why       : Low value + high promo dependency
+            Not worth investing heavily to retain
+When      : Ongoing quarterly review
+How       : Keep current promotions
+            Do not create new promotions for this group
+Risk      : LOW (already low value)
+Metric    : Quarterly revenue contribution review
+
+ROLLOUT TIMELINE:
+─────────────────
+Month 1   → Stop discounts for Loyal+Gold+Platinum
+Month 2   → Reduce discounts for Loyal+Silver+Bronze
+Month 3   → Launch loyalty program for all segments
+Month 4   → Complete discount removal for Loyal segment
+Month 5-6 → Assess Discount Dependent Gold+Platinum
+Month 7+  → Full new promotional strategy in place
+
+SUCCESS METRIC:
+→ Primary   : Margin improvement % month over month
+→ Secondary : Purchase frequency of Genuinely Loyal
+→ Guard     : Overall revenue must not drop >5%
+
+════════════════════════════════════════════════════════
+SECTION 4 — IDEAL CUSTOMER PROFILE
+════════════════════════════════════════════════════════
+
+WHO IS THE BRAND'S BEST CUSTOMER?
+
+Based on analysis of Champion customers:
+(Genuinely Loyal + Platinum + High Satisfaction)
+
+DEMOGRAPHIC PROFILE:
+────────────────────
+Gender          : Female
+Age range       : 46-55 years (primary)
+                  18-25 years (secondary — high growth)
+Location        : Texas (primary market)
+                  Montana (top city by customer count)
+
+BEHAVIORAL PROFILE:
+────────────────────
+Payment method  : PayPal (preferred)
+Purchase freq   : Annually (makes large purchases)
+Avg purchase    : $91-95 per transaction
+                  (above brand average of $59.76)
+Previous buys   : 25+ purchases (very loyal!)
+Review rating   : 3.8+ out of 5
+Subscription    : YES — subscribed to brand
+
+PRODUCT PROFILE:
+────────────────────
+Top category    : Clothing (Spring and Fall seasons)
+Second category : Accessories (retention category!)
+Top season      : Spring → Fall → Winter → Summer
+Size preference : Varies (no dominant size)
+Shipping pref   : Express (willing to pay for speed)
+
+PSYCHOGRAPHIC PROFILE:
+────────────────────
+→ Values quality over price
+→ Does NOT wait for discounts
+→ Shops seasonally (Spring + Fall peaks)
+→ Loyal to brand — 25+ previous purchases
+→ Satisfied with brand experience (3.75+ rating)
+→ Prefers convenience (PayPal + Express shipping)
+
+WHAT MAKES THIS CUSTOMER VALUABLE:
+────────────────────────────────────
+→ Buys at full price → protects margins
+→ Buys repeatedly → high lifetime value
+→ High satisfaction → likely to refer others
+→ Subscribed → engaged with brand
+
+HOW TO ACQUIRE MORE IDEAL CUSTOMERS:
+────────────────────────────────────
+1. TARGET GEOGRAPHY:
+   → Focus paid ads in Texas and Golden Market cities
+   → These cities show high spend + low promo use
+   → Genuine brand pull — not discount driven
+
+2. TARGET DEMOGRAPHICS:
+   → Female customers aged 45-55 on Instagram/Facebook
+   → Female customers aged 18-25 on TikTok
+   → These are your two highest-potential groups
+
+3. TARGET PAYMENT METHOD:
+   → Partner with PayPal for co-marketing
+   → Offer PayPal exclusive early access (not discounts!)
+   → PayPal users convert at higher rates
+
+4. TARGET PRODUCT ENTRY POINT:
+   → Acquire through Clothing (entry category)
+   → Retain through Accessories (retention category)
+   → New customer journey:
+     Clothing purchase → Accessories upsell →
+     Loyal repeat buyer
+
+5. TARGET SEASON:
+   → Launch acquisition campaigns in January-February
+     (before Spring shopping season)
+   → Spring is top season for ideal customers
+   → Get them before competitors do
+
+════════════════════════════════════════════════════════
+SECTION 5 — GEOGRAPHIC STRATEGY
+════════════════════════════════════════════════════════
+
+FOUR MARKET TYPES IDENTIFIED:
+
+GOLDEN MARKETS (1,013 customers — INVEST HERE!)
+────────────────────────────────────────────────
+Definition  : High avg spend + Low promo dependency
+Meaning     : Customers in these cities genuinely
+              love the brand — no discounts needed
+Strategy    : Increase marketing spend in these cities
+              Launch loyalty program first here
+              No discount campaigns needed
+Expected    : Highest ROI on marketing investment
+
+PROMO MARKETS (1,005 customers — HANDLE CAREFULLY)
+─────────────────────────────────────────────────────
+Definition  : High avg spend + High promo dependency
+Meaning     : Customers spend well BUT only with promos
+Strategy    : Gradually reduce discount intensity
+              Test loyalty program as alternative
+              Do NOT remove discounts suddenly
+              Risk of significant revenue loss if rushed
+
+GROWTH MARKETS (792 customers — DEVELOP)
+─────────────────────────────────────────
+Definition  : Lower spend + Low promo dependency
+Meaning     : Genuine interest but lower purchasing power
+Strategy    : Introduce mid-range product line
+              Grow basket size before reducing any promos
+              Long term investment opportunity
+
+LOW PRIORITY MARKETS (1,090 customers — MONITOR)
+──────────────────────────────────────────────────
+Definition  : Low spend + High promo dependency
+Meaning     : Bargain hunters with low brand loyalty
+Strategy    : Minimal investment
+              Standard promotions only
+              No special campaigns or loyalty investment
+
+════════════════════════════════════════════════════════
+SECTION 6 — CATEGORY STRATEGY
+════════════════════════════════════════════════════════
+
+CATEGORY FINDINGS:
+──────────────────
+Category     Type        Customers  Avg Prev Purchases
+Accessories  Retention   1,240      25.7 (highest!)
+Clothing     Entry       1,737      25.2
+Footwear     Entry       599        25.2
+Outerwear    Entry       324        25.0
+
+KEY INSIGHT:
+Accessories buyers have the HIGHEST previous purchase
+count — meaning loyal customers gravitate toward
+Accessories over time.
+
+Clothing is the ENTRY point — most new customers
+start with Clothing and then move to Accessories
+as they become loyal.
+
+CATEGORY RECOMMENDATIONS:
+──────────────────────────
+1. ACCESSORIES — Build retention category:
+   → Expand Accessories product line
+   → Create Accessories-specific loyalty rewards
+   → Target existing Clothing buyers with
+     Accessories upsell campaigns
+   → Goal: Convert entry buyers to retention buyers
+
+2. CLOTHING — Protect the entry point:
+   → Keep Clothing well-stocked in all seasons
+   → This is how most ideal customers ENTER
+   → Spring Clothing campaigns = best acquisition tool
+   → Do not over-discount Clothing — it trains
+     customers to wait for sales
+
+3. FOOTWEAR — Growth opportunity:
+   → Currently small (599 customers)
+   → Lower than average promo dependency (0.43)
+   → Opportunity to grow without heavy discounting
+   → Target existing Accessories buyers with
+     Footwear recommendations
+
+4. OUTERWEAR — Seasonal opportunity:
+   → Smallest category (324 customers)
+   → Focus on Fall/Winter seasonal campaigns
+   → Bundle with Accessories for higher basket value
+
+════════════════════════════════════════════════════════
+SECTION 7 — 5 STRATEGIC RECOMMENDATIONS
+════════════════════════════════════════════════════════
+
+RECOMMENDATION 1 — LAUNCH LOYALTY PROGRAM
+Priority   : HIGH — implement Month 3
+Target     : All Genuinely Loyal customers (2,223)
+What       : Points-based loyalty program
+             Replace discounts with points
+             Points redeemable for:
+             → Early access to new collections
+             → Free express shipping
+             → Exclusive member-only products
+             → NOT cash discounts
+Why        : Builds genuine loyalty without
+             training customers to expect discounts
+Trade-off  : Initial setup cost vs long-term
+             margin protection
+Metric     : Loyalty program enrollment rate
+Success    : 40% enrollment within 6 months
+
+RECOMMENDATION 2 — STOP DISCOUNTS FOR TOP SEGMENT
+Priority   : HIGH — implement Month 1
+Target     : Genuinely Loyal + Gold + Platinum
+             (1,095 customers)
+What       : Remove from all discount lists
+             immediately
+Why        : Already buying at full price
+             Discounts are pure margin loss
+Trade-off  : Small risk of alienating some customers
+             vs immediate margin recovery
+Timeline   :
+  Week 1   → Remove from discount email lists
+  Week 2   → Remove promo code access
+  Week 3   → Send loyalty program invite instead
+  Week 4   → Monitor purchase rate closely
+Metric     : Monthly purchase frequency
+Success    : No more than 5% drop in purchase rate
+Expected   : $14,689 margin recovery (estimated)
+
+RECOMMENDATION 3 — TARGET GOLDEN MARKET CITIES
+Priority   : MEDIUM — implement Month 2
+Target     : Golden Market cities (1,013 customers)
+What       : Increase paid advertising budget in
+             Golden Market cities by 30%
+             Focus on:
+             → Instagram/Facebook for 45-55 Female
+             → TikTok for 18-25 Female
+             → PayPal partnership campaigns
+Why        : These cities have high spend + low promo
+             dependency — best ROI on marketing
+Trade-off  : Higher marketing spend upfront vs
+             acquiring ideal customer profile
+Metric     : New customer acquisition cost (CAC)
+             in Golden Market cities
+Success    : CAC in Golden Markets below brand average
+
+RECOMMENDATION 4 — ACCESSORIES EXPANSION
+Priority   : MEDIUM — implement Month 3-4
+Target     : All existing Clothing buyers
+What       : Upsell Accessories to Clothing customers
+             → Post-purchase email:
+               "Customers like you also love..."
+             → Loyalty points for first Accessories buy
+             → Bundle: Clothing + Accessories discount
+               for FIRST-TIME Accessories purchase only
+Why        : Accessories = retention category
+             Moving customers from Clothing to Accessories
+             increases lifetime value significantly
+Trade-off  : Small discount on first Accessories
+             purchase vs long-term retention gain
+Metric     : % of Clothing buyers who buy Accessories
+Success    : 15% conversion from Clothing to Accessories
+             within 6 months
+
+RECOMMENDATION 5 — SPRING ACQUISITION CAMPAIGN
+Priority   : MEDIUM — implement before next Spring
+Target     : New customer acquisition
+What       : Major Spring campaign targeting
+             Female customers in Golden Market cities
+             Focus on Clothing (entry category)
+             NO discount — use:
+             → "New Spring Collection" urgency
+             → Free shipping threshold
+             → Style guide content marketing
+Why        : Spring = top season for ideal customers
+             Clothing = how ideal customers enter brand
+             Golden Markets = genuine brand pull exists
+Trade-off  : Campaign spend vs customer acquisition
+Metric     : New customers acquired in Spring campaign
+Success    : 10% increase in new customers vs last Spring
+
+════════════════════════════════════════════════════════
+SECTION 8 — EXPECTED BUSINESS IMPACT
+════════════════════════════════════════════════════════
+
+IF ALL RECOMMENDATIONS IMPLEMENTED:
+
+SHORT TERM (0-3 months):
+→ Margin recovery from stopping discounts:
+  ~$14,689 (estimated 15% on Loyal+Gold+Platinum)
+→ No expected revenue drop from loyal segment
+→ Potential 5% drop from discount segment
+  (acceptable and expected)
+
+MEDIUM TERM (3-6 months):
+→ Loyalty program enrollment builds repeat rates
+→ Golden Market acquisition brings ideal customers
+→ Accessories expansion improves lifetime value
+→ Expected: 8-12% improvement in margin %
+
+LONG TERM (6-12 months):
+→ Brand no longer dependent on promotions
+→ Loyal customer base grows as % of total
+→ Discount dependent segment shrinks naturally
+→ Expected: 15-20% margin improvement
+            without revenue loss
+
+RISKS TO MONITOR:
+→ Competitor runs heavy discounting campaign
+  → Counter with loyalty program benefits NOT price
+→ Discount segment churns faster than expected
+  → Increase Golden Market acquisition speed
+→ Loyalty program adoption is slow
+  → Simplify program and increase awareness
+
+════════════════════════════════════════════════════════
+SECTION 9 — METRICS DASHBOARD
+════════════════════════════════════════════════════════
+
+TRACK THESE METRICS MONTHLY:
+
+LOYALTY HEALTH:
+→ % Genuinely Loyal customers (target: grow from 57%)
+→ % Discount Dependent customers (target: shrink from 43%)
+→ Loyalty program enrollment rate (target: 40%)
+
+REVENUE HEALTH:
+→ Total revenue (guard: must not drop >5%)
+→ Avg purchase value (target: grow from $59.76)
+→ Revenue from non-discounted purchases (target: grow)
+
+ACQUISITION HEALTH:
+→ New customers from Golden Market cities
+→ % new customers who become repeat buyers
+→ Customer Acquisition Cost by city type
+
+RETENTION HEALTH:
+→ Purchase frequency of Genuinely Loyal segment
+→ % Clothing buyers who buy Accessories
+→ Subscription program retention rate
+
+════════════════════════════════════════════════════════
+END OF RETENTION PLAYBOOK
+════════════════════════════════════════════════════════
+
+Document prepared by: Adarsh Kumar
+Project: SQL Customer Retention Analysis
+Organization: Consulting & Analytics Club — IIT Guwahati
+Date: June 2026

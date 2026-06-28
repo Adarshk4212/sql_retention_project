@@ -1,0 +1,51 @@
+location,city_opportunity,customers,avg_spend,promo_dependency,total_revenue
+Alaska,Golden Market,72,67.6,0.4,4867.0
+Pennsylvania,Promo Market,74,66.57,0.45,4926.0
+Arizona,Golden Market,65,66.55,0.34,4326.0
+West Virginia,Promo Market,81,63.88,0.49,5174.0
+Nevada,Promo Market,87,63.38,0.47,5514.0
+Washington,Promo Market,73,63.33,0.44,4623.0
+North Dakota,Promo Market,83,62.89,0.46,5220.0
+Virginia,Golden Market,77,62.88,0.38,4842.0
+Utah,Promo Market,71,62.58,0.46,4443.0
+Michigan,Golden Market,73,62.1,0.4,4533.0
+Tennessee,Golden Market,77,61.97,0.36,4772.0
+New Mexico,Promo Market,81,61.9,0.44,5014.0
+Rhode Island,Golden Market,63,61.44,0.4,3871.0
+Texas,Golden Market,77,61.19,0.36,4712.0
+Arkansas,Promo Market,79,61.11,0.47,4828.0
+Illinois,Golden Market,92,61.05,0.4,5617.0
+Mississippi,Promo Market,80,61.04,0.48,4883.0
+Massachusetts,Promo Market,72,60.89,0.49,4384.0
+Iowa,Promo Market,69,60.88,0.52,4201.0
+North Carolina,Promo Market,78,60.79,0.45,4742.0
+Wyoming,Golden Market,71,60.69,0.42,4309.0
+South Dakota,Golden Market,70,60.51,0.37,4236.0
+New York,Golden Market,87,60.43,0.41,5257.0
+Ohio,Promo Market,77,60.38,0.44,4649.0
+Montana,Golden Market,96,60.25,0.38,5784.0
+Idaho,Golden Market,93,60.08,0.41,5587.0
+Nebraska,Low Priority,87,59.45,0.43,5172.0
+New Hampshire,Low Priority,71,59.42,0.44,4219.0
+Alabama,Growth Market,89,59.11,0.4,5261.0
+California,Growth Market,95,59.0,0.42,5605.0
+Indiana,Low Priority,79,58.92,0.57,4655.0
+Georgia,Growth Market,79,58.8,0.41,4645.0
+South Carolina,Low Priority,76,58.41,0.5,4439.0
+Oklahoma,Low Priority,75,58.35,0.48,4376.0
+Missouri,Low Priority,81,57.91,0.49,4691.0
+Hawaii,Low Priority,65,57.72,0.49,3752.0
+Louisiana,Growth Market,84,57.71,0.42,4848.0
+Oregon,Low Priority,74,57.34,0.51,4243.0
+Vermont,Growth Market,85,57.18,0.39,4860.0
+Maine,Growth Market,77,56.99,0.35,4388.0
+New Jersey,Growth Market,67,56.75,0.4,3802.0
+Minnesota,Low Priority,88,56.56,0.44,4977.0
+Colorado,Growth Market,75,56.29,0.41,4222.0
+Wisconsin,Low Priority,75,55.95,0.48,4196.0
+Florida,Low Priority,68,55.85,0.46,3798.0
+Maryland,Low Priority,86,55.76,0.44,4795.0
+Kentucky,Low Priority,79,55.72,0.43,4402.0
+Delaware,Low Priority,86,55.33,0.45,4758.0
+Kansas,Growth Market,63,54.56,0.24,3437.0
+Connecticut,Growth Market,78,54.18,0.33,4226.0

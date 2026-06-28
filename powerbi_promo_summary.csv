@@ -1,0 +1,9 @@
+loyalty_type,value_tier,customers,avg_spend,promo_score,promo_action
+Genuinely Loyal,Platinum,545,91.15,0.0,Stop Discounts
+Discount Dependent,Platinum,381,91.0,1.0,Keep — High Risk
+Genuinely Loyal,Gold,550,71.14,0.0,Stop Discounts
+Discount Dependent,Gold,438,70.94,1.0,Keep — High Risk
+Genuinely Loyal,Silver,560,50.08,0.0,Reduce Gradually
+Discount Dependent,Silver,412,49.89,1.0,Monitor Only
+Genuinely Loyal,Bronze,568,29.61,0.0,Reduce Gradually
+Discount Dependent,Bronze,446,29.4,1.0,Monitor Only
