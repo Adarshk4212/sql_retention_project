@@ -4,7 +4,7 @@ SQL Customer Retention Strategy
 D2C Fashion Brand — United States
 ════════════════════════════════════════════════════════
 
-PREPARED BY : \ADARSH KUMAR
+PREPARED BY : ADARSH KUMAR
 DATE        : June 2026
 DATASET     : 3,900 customers | $233,081 total revenue
 PURPOSE     : Reduce discount dependency without
